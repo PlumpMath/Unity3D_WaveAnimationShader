@@ -1,0 +1,2 @@
+# Unity3D_WaveAnimationShader
+揺れたり波打つようにアニメーションさせるシェーダのサンプル
